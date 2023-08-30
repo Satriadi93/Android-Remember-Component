@@ -1,5 +1,2 @@
-
-https://github.com/Satriadi93/Android-Remember-Component/assets/112735827/8b7124eb-3342-4d0b-97a3-010bd7ff19b2
-
-
-https://github.com/Satriadi93/Android-Remember-Component/assets/112735827/439ea1e3-6344-4739-8f31-a7c0ef81d2e9
+![before](https://github.com/Satriadi93/Android-Remember-Component/assets/112735827/d47ead4d-f1ea-456e-ad92-ccbcb06d0b60)
+![after](https://github.com/Satriadi93/Android-Remember-Component/assets/112735827/3470ab69-d798-4326-befb-28503ace149b)
